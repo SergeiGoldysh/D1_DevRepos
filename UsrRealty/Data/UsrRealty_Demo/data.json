@@ -1,0 +1,51 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "a056272f-460a-4b6d-b851-6ea28aea2dc1"
+        },
+        {
+          "SchemaColumnUId": "024aa461-aa7c-4d4f-bd20-5e35f64796bc",
+          "Value": "Квартира в Стамбуле"
+        },
+        {
+          "SchemaColumnUId": "3a265f8c-7cc9-a0e4-0256-a0ab3ac4d947",
+          "Value": "d037493a-81ad-4e78-9ca0-59bd14c4d5a2",
+          "DisplayValue": "1. Продажа"
+        },
+        {
+          "SchemaColumnUId": "42803b2e-bfbf-ad08-9672-369decb5325c",
+          "Value": "R-001"
+        },
+        {
+          "SchemaColumnUId": "5ffda3be-d70d-8c38-b799-a6f7a5345921",
+          "Value": 85.00
+        },
+        {
+          "SchemaColumnUId": "7ae8e181-d5d0-e78c-8fb6-bf9cb1b5d467",
+          "Value": "e6ffa68b-40de-473a-888a-d3229a141559",
+          "DisplayValue": "Нельсон Мандела"
+        },
+        {
+          "SchemaColumnUId": "7e377746-6c98-eeb5-6996-2ba183996927",
+          "Value": "549ae445-3bb9-4c18-ae41-5ad82cb78626",
+          "DisplayValue": "1. Квартира"
+        },
+        {
+          "SchemaColumnUId": "9ff0358d-6ff3-f23e-a61d-9294402f0a2b",
+          "Value": "удобно же!"
+        },
+        {
+          "SchemaColumnUId": "bd52ba4b-b91b-823a-b0aa-44fdb432f243",
+          "Value": 150000.00
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1734385565955+0600)\/"
+        }
+      ]
+    }
+  ]
+}
