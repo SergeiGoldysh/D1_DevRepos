@@ -3,6 +3,9 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Страница записи Недвижимость" />
+			<Item Name="LocalizableStrings.addRecord_6hxasv3_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.addRecord_88xjdc1_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.addRecord_de883gf_caption.Value" Value="Добавить" />
 		</Items>
 	</Group>
 </Resources>
