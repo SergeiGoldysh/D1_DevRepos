@@ -8,11 +8,20 @@
 			<Item Name="LocalizableStrings.addRecord_6hxasv3_caption.Value" Value="Добавить" />
 			<Item Name="LocalizableStrings.addRecord_88xjdc1_caption.Value" Value="Добавить" />
 			<Item Name="LocalizableStrings.addRecord_de883gf_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.AreaCannotBeLess.Value" Value="Площадь должна быть не менее 10 м2" />
 			<Item Name="LocalizableStrings.Button_gq1btr4_caption.Value" Value="Нажмите сюда!" />
 			<Item Name="LocalizableStrings.Button_idello1_caption.Value" Value="Кнопка" />
 			<Item Name="LocalizableStrings.Button_n6n6lj3_caption.Value" Value="Кнопка" />
 			<Item Name="LocalizableStrings.Button_wny4u0z_caption.Value" Value="Кнопка" />
+			<Item Name="LocalizableStrings.ExpansionPanel_3uamie1_title.Value" Value="Просмотр недвижимости" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_1zgtpyf_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_qse8moj_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_rc46e37_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_2lb9rl2_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_84vlgul_placeholder.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_q46nwg4_caption.Value" Value="Действия" />
 			<Item Name="LocalizableStrings.NumberInput_d646wxx_label.Value" Value="Число" />
+			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Цена должна быть не менее 50 USD." />
 		</Items>
 	</Group>
 </Resources>
