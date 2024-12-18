@@ -9,6 +9,7 @@
 			<Item Name="LocalizableStrings.addRecord_88xjdc1_caption.Value" Value="Добавить" />
 			<Item Name="LocalizableStrings.addRecord_de883gf_caption.Value" Value="Добавить" />
 			<Item Name="LocalizableStrings.AreaCannotBeLess.Value" Value="Area cannot be less than 10 m2" />
+			<Item Name="LocalizableStrings.Button_0fa8qio_caption.Value" Value="Действия" />
 			<Item Name="LocalizableStrings.Button_gq1btr4_caption.Value" Value="Push me!" />
 			<Item Name="LocalizableStrings.Button_idello1_caption.Value" Value="Кнопка" />
 			<Item Name="LocalizableStrings.Button_n6n6lj3_caption.Value" Value="Кнопка" />
@@ -20,6 +21,7 @@
 			<Item Name="LocalizableStrings.GridDetailRefreshBtn_2lb9rl2_caption.Value" Value="Обновить" />
 			<Item Name="LocalizableStrings.GridDetailSearchFilter_84vlgul_placeholder.Value" Value="Поиск" />
 			<Item Name="LocalizableStrings.GridDetailSettingsBtn_q46nwg4_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.MenuItem_hrzmnxi_caption.Value" Value="Запуск процесса расчета средней цены" />
 			<Item Name="LocalizableStrings.NumberInput_d646wxx_label.Value" Value="Число" />
 			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 50. USD." />
 		</Items>
