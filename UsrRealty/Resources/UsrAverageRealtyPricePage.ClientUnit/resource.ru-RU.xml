@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница со средней ценой недвижимости" />
+			<Item Name="Parameters.22832def-62de-e6ca-0faa-86adec06baf7.Caption" Value="Средняя цена, USD" />
+			<Item Name="Parameters.ac177691-9814-d3fc-9c53-a8c18e578821.Caption" Value="SQL текст" />
+		</Items>
+	</Group>
+</Resources>
